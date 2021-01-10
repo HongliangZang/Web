@@ -1,4 +1,4 @@
-## Edge - Stop redirect to https for localhost
+# Edge - Stop redirect to https for localhost
 
 edge://net-internals/#hsts
 
